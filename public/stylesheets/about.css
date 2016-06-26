@@ -1,0 +1,36 @@
+/* inherited */
+body {
+  font: 14px 'Varela Round', sans-serif;
+  background-color: #87CE76;
+}
+
+a {
+  background-color: none;
+}
+
+.jumbotron {
+  background-color: #F9F9B3;
+}
+
+.navbar {
+  background-color: #FF9AAC;
+}
+
+div.navbar-header a.navbar-brand {
+  color: black;
+}
+ul.nav a.dropdown-toggle {
+  color: black;
+}
+div#navbar ul li a {
+  color: black;
+}
+
+/* about */
+#description {
+  color: ;
+}
+
+img.bug {
+  margin-bottom: 2%;
+}
